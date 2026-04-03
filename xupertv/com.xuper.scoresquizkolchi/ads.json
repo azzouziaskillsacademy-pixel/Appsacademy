@@ -1,104 +1,104 @@
 {
   "Quizzes": [
     {
-     "QuizOptions": [
-        "Michael Jordan",
-        "LeBron James",
-        "Kareem Abdul-Jabbar",
-        "Kobe Bryant"
+    "QuizOptions": [
+        "España",
+        "México",
+        "Argentina",
+        "Colombia"
       ],
-      "QuizQuestion": "Who is the NBA's all-time leading scorer (most points)?",
-      "UizAnswerIndex": 1
-    },
-    {
-      "QuizOptions": [
-        "Roger Federer",
-        "Rafael Nadal",
-        "Novak Djokovic",
-        "Pete Sampras"
-      ],
-      "QuizQuestion": "Which tennis player has won the most Grand Slam titles (men's)?",
-      "UizAnswerIndex": 2
-    },
-    {
-      "QuizOptions": [
-        "Yankee Stadium",
-        "Fenway Park",
-        "Wrigley Field",
-        "Dodger Stadium"
-      ],
-      "QuizQuestion": "Which baseball stadium is known as 'The House That Ruth Built'?",
+      "QuizQuestion": "¿Cuál es el único país europeo donde el español es idioma oficial?",
       "UizAnswerIndex": 0
     },
     {
       "QuizOptions": [
-        "Indian Wells",
-        "Key Biscayne",
-        "Flushing Meadows",
-        "San Diego"
+        "La Casa de Papel",
+        "El Clásico",
+        "La Tomatina",
+        "San Fermín"
       ],
-      "QuizQuestion": "The US Open tennis tournament is played where?",
-      "UizAnswerIndex": 2
-    },
-    {
-      "QuizOptions": [
-        "Great Britain",
-        "Russia",
-        "China",
-        "United States"
-      ],
-      "QuizQuestion": "Which country has won the most Olympic gold medals in swimming?",
+      "QuizQuestion": "¿Cómo se llama la famosa fiesta de los toros en Pamplona?",
       "UizAnswerIndex": 3
     },
     {
       "QuizOptions": [
-        "3",
-        "4",
-        "5",
-        "6"
+        "Frida Kahlo",
+        "Diego Rivera",
+        "Pablo Picasso",
+        "Salvador Dalí"
       ],
-      "QuizQuestion": "How many points is a touchdown worth in American football?",
-      "UizAnswerIndex": 1
-    },
-    {
-      "QuizOptions": [
-        "Muhammad Ali",
-        "Mike Tyson",
-        "Joe Frazier",
-        "George Foreman"
-      ],
-      "QuizQuestion": "Which boxer was known as 'The Greatest'?",
-      "UizAnswerIndex": 0
-    },
-    {
-      "QuizOptions": [
-        "Chicago Blackhawks",
-        "Detroit Red Wings",
-        "Montreal Canadiens",
-        "Boston Bruins"
-      ],
-      "QuizQuestion": "Which NHL team has won the most Stanley Cup titles?",
+      "QuizQuestion": "¿Quién pintó 'El Guernica'?",
       "UizAnswerIndex": 2
     },
     {
       "QuizOptions": [
-        "Simone Biles",
-        "Nadia Comaneci",
-        "Mary Lou Retton",
-        "Gabby Douglas"
+        "Taco",
+        "Paella",
+        "Arepa",
+        "Ceviche"
       ],
-      "QuizQuestion": "Which gymnast scored the first perfect 10 in Olympic history?",
+      "QuizQuestion": "¿Cuál es el plato típico más famoso de España?",
       "UizAnswerIndex": 1
     },
     {
       "QuizOptions": [
-        "Horse racing",
-        "Cycling",
-        "Rowing",
-        "Sailing"
+        "Shakira",
+        "Enrique Iglesias",
+        "Ricky Martin",
+        "Daddy Yankee"
       ],
-      "QuizQuestion": "The Tour de France is a famous race in which sport?",
+      "QuizQuestion": "¿Quién cantó 'Waka Waka (Esto es África)' en el Mundial 2010?",
+      "UizAnswerIndex": 0
+    },
+    {
+      "QuizOptions": [
+        "Gabriel García Márquez",
+        "Mario Vargas Llosa",
+        "Jorge Luis Borges",
+        "Miguel de Cervantes"
+      ],
+      "QuizQuestion": "¿Quién escribió 'Cien años de soledad'?",
+      "UizAnswerIndex": 0
+    },
+    {
+      "QuizOptions": [
+        "El tequila",
+        "La sangría",
+        "El vino tinto",
+        "La horchata"
+      ],
+      "QuizQuestion": "¿Cuál es la bebida alcohólica típica de México hecha de agave?",
+      "UizAnswerIndex": 0
+    },
+    {
+      "QuizOptions": [
+        "Día de la Independencia",
+        "Día de los Muertos",
+        "Cinco de Mayo",
+        "Navidad"
+      ],
+      "QuizQuestion": "¿Cuál es la festividad mexicana famosa por las calaveras y ofrendas?",
       "UizAnswerIndex": 1
+    },
+    {
+      "QuizOptions": [
+        "Barcelona",
+        "Real Madrid",
+        "Atlético Madrid",
+        "Sevilla"
+      ],
+      "QuizQuestion": "¿Qué equipo de fútbol juega en el estadio Santiago Bernabéu?",
+      "UizAnswerIndex": 1
+    },
+    {
+      "QuizOptions": [
+        "Machu Picchu",
+        "Chichén Itzá",
+        "Cristo Redentor",
+        "Torre Eiffel"
+      ],
+      "QuizQuestion": "¿Cuál es la famosa ciudadela inca en Perú?",
+      "UizAnswerIndex": 0
     }
   ],
   "PlayerConfig": {
