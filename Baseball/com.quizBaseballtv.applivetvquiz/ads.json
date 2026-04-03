@@ -1,105 +1,404 @@
-
 {
   "Quizzes": [
     {
-    "QuizOptions": [
-        "España",
-        "México",
-        "Argentina",
-        "Colombia"
-      ],
-      "QuizQuestion": "¿Cuál es el único país europeo donde el español es idioma oficial?",
-      "UizAnswerIndex": 0
+      "QuizQuestion": "Which MLB team has won the most World Series titles?",
+      "UizAnswerIndex": 2,
+      "QuizOptions": [
+        "Boston Red Sox",
+        "St. Louis Cardinals",
+        "New York Yankees",
+        "Los Angeles Dodgers"
+      ]
     },
     {
+      "QuizQuestion": "Who holds the record for most career home runs in MLB history?",
+      "UizAnswerIndex": 1,
       "QuizOptions": [
-        "La Casa de Papel",
-        "El Clásico",
-        "La Tomatina",
-        "San Fermín"
-      ],
-      "QuizQuestion": "¿Cómo se llama la famosa fiesta de los toros en Pamplona?",
-      "UizAnswerIndex": 3
+        "Babe Ruth",
+        "Barry Bonds",
+        "Hank Aaron",
+        "Willie Mays"
+      ]
     },
     {
+      "QuizQuestion": "How many strikes result in a strikeout?",
+      "UizAnswerIndex": 1,
       "QuizOptions": [
-        "Frida Kahlo",
-        "Diego Rivera",
-        "Pablo Picasso",
-        "Salvador Dalí"
-      ],
-      "QuizQuestion": "¿Quién pintó 'El Guernica'?",
-      "UizAnswerIndex": 2
+        "2",
+        "3",
+        "4",
+        "5"
+      ]
     },
     {
+      "QuizQuestion": "What is the distance between bases in Major League Baseball?",
+      "UizAnswerIndex": 2,
       "QuizOptions": [
-        "Taco",
-        "Paella",
-        "Arepa",
-        "Ceviche"
-      ],
-      "QuizQuestion": "¿Cuál es el plato típico más famoso de España?",
-      "UizAnswerIndex": 1
+        "60 feet",
+        "75 feet",
+        "90 feet",
+        "100 feet"
+      ]
     },
     {
+      "QuizQuestion": "Who is known as 'The Great Bambino'?",
+      "UizAnswerIndex": 0,
       "QuizOptions": [
-        "Shakira",
-        "Enrique Iglesias",
-        "Ricky Martin",
-        "Daddy Yankee"
-      ],
-      "QuizQuestion": "¿Quién cantó 'Waka Waka (Esto es África)' en el Mundial 2010?",
-      "UizAnswerIndex": 0
+        "Babe Ruth",
+        "Lou Gehrig",
+        "Ted Williams",
+        "Jackie Robinson"
+      ]
     },
     {
+      "QuizQuestion": "Which pitcher has the most career strikeouts in MLB history?",
+      "UizAnswerIndex": 3,
       "QuizOptions": [
-        "Gabriel García Márquez",
-        "Mario Vargas Llosa",
-        "Jorge Luis Borges",
-        "Miguel de Cervantes"
-      ],
-      "QuizQuestion": "¿Quién escribió 'Cien años de soledad'?",
-      "UizAnswerIndex": 0
+        "Roger Clemens",
+        "Randy Johnson",
+        "Steve Carlton",
+        "Nolan Ryan"
+      ]
     },
     {
+      "QuizQuestion": "How many innings are in a standard MLB game?",
+      "UizAnswerIndex": 1,
       "QuizOptions": [
-        "El tequila",
-        "La sangría",
-        "El vino tinto",
-        "La horchata"
-      ],
-      "QuizQuestion": "¿Cuál es la bebida alcohólica típica de México hecha de agave?",
-      "UizAnswerIndex": 0
+        "7",
+        "9",
+        "10",
+        "12"
+      ]
     },
     {
+      "QuizQuestion": "Which player broke the color barrier in Major League Baseball in 1947?",
+      "UizAnswerIndex": 2,
       "QuizOptions": [
-        "Día de la Independencia",
-        "Día de los Muertos",
-        "Cinco de Mayo",
-        "Navidad"
-      ],
-      "QuizQuestion": "¿Cuál es la festividad mexicana famosa por las calaveras y ofrendas?",
-      "UizAnswerIndex": 1
+        "Larry Doby",
+        "Satchel Paige",
+        "Jackie Robinson",
+        "Willie Mays"
+      ]
     },
     {
+      "QuizQuestion": "What is it called when a batter hits the ball over the fence with the bases loaded?",
+      "UizAnswerIndex": 0,
       "QuizOptions": [
-        "Barcelona",
-        "Real Madrid",
-        "Atlético Madrid",
-        "Sevilla"
-      ],
-      "QuizQuestion": "¿Qué equipo de fútbol juega en el estadio Santiago Bernabéu?",
-      "UizAnswerIndex": 1
+        "Grand Slam",
+        "Home Run",
+        "Solo Shot",
+        "Walk-off"
+      ]
     },
     {
+      "QuizQuestion": "Which team plays at Fenway Park?",
+      "UizAnswerIndex": 1,
       "QuizOptions": [
-        "Machu Picchu",
-        "Chichén Itzá",
-        "Cristo Redentor",
-        "Torre Eiffel"
-      ],
-      "QuizQuestion": "¿Cuál es la famosa ciudadela inca en Perú?",
-      "UizAnswerIndex": 0
+        "New York Yankees",
+        "Boston Red Sox",
+        "Chicago Cubs",
+        "San Francisco Giants"
+      ]
+    },
+    {
+      "QuizQuestion": "Who has the most career hits in MLB history?",
+      "UizAnswerIndex": 3,
+      "QuizOptions": [
+        "Ty Cobb",
+        "Hank Aaron",
+        "Stan Musial",
+        "Pete Rose"
+      ]
+    },
+    {
+      "QuizQuestion": "What does 'RBI' stand for?",
+      "UizAnswerIndex": 0,
+      "QuizOptions": [
+        "Run Batted In",
+        "Runs Base Inning",
+        "Right Base Inside",
+        "Runner Before Inning"
+      ]
+    },
+    {
+      "QuizQuestion": "Which pitcher threw a perfect game in the 1956 World Series?",
+      "UizAnswerIndex": 2,
+      "QuizOptions": [
+        "Sandy Koufax",
+        "Bob Gibson",
+        "Don Larsen",
+        "Whitey Ford"
+      ]
+    },
+    {
+      "QuizQuestion": "How many teams make the MLB playoffs each season?",
+      "UizAnswerIndex": 2,
+      "QuizOptions": [
+        "8",
+        "10",
+        "12",
+        "14"
+      ]
+    },
+    {
+      "QuizQuestion": "Which player is famous for 'The Shot Heard 'Round the World'?",
+      "UizAnswerIndex": 1,
+      "QuizOptions": [
+        "Joe DiMaggio",
+        "Bobby Thomson",
+        "Bill Mazeroski",
+        "Kirk Gibson"
+      ]
+    },
+    {
+      "QuizQuestion": "What is the nickname of the Chicago Cubs' home stadium?",
+      "UizAnswerIndex": 0,
+      "QuizOptions": [
+        "Wrigley Field",
+        "Comiskey Park",
+        "Guaranteed Rate Field",
+        "Soldier Field"
+      ]
+    },
+    {
+      "QuizQuestion": "Who holds the single-season home run record (73)?",
+      "UizAnswerIndex": 3,
+      "QuizOptions": [
+        "Mark McGwire",
+        "Sammy Sosa",
+        "Aaron Judge",
+        "Barry Bonds"
+      ]
+    },
+    {
+      "QuizQuestion": "What is a 'bullpen'?",
+      "UizAnswerIndex": 2,
+      "QuizOptions": [
+        "The batting cage",
+        "The dugout",
+        "Area where pitchers warm up",
+        "The locker room"
+      ]
+    },
+    {
+      "QuizQuestion": "Which team has the longest World Series championship drought?",
+      "UizAnswerIndex": 0,
+      "QuizOptions": [
+        "Cleveland Guardians",
+        "San Diego Padres",
+        "Seattle Mariners",
+        "Texas Rangers"
+      ]
+    },
+    {
+      "QuizQuestion": "Who is the all-time leader in stolen bases?",
+      "UizAnswerIndex": 1,
+      "QuizOptions": [
+        "Lou Brock",
+        "Rickey Henderson",
+        "Tim Raines",
+        "Vince Coleman"
+      ]
+    },
+    {
+      "QuizQuestion": "What does 'ERA' stand for in baseball statistics?",
+      "UizAnswerIndex": 2,
+      "QuizOptions": [
+        "Earned Run Average",
+        "Extra Run Allowance",
+        "Earned Run Assessment",
+        "Early Run Average"
+      ]
+    },
+    {
+      "QuizQuestion": "Which stadium is known as 'The House That Ruth Built'?",
+      "UizAnswerIndex": 0,
+      "QuizOptions": [
+        "Yankee Stadium",
+        "Fenway Park",
+        "Dodger Stadium",
+        "Wrigley Field"
+      ]
+    },
+    {
+      "QuizQuestion": "Who was the first player to win the MVP award in both leagues?",
+      "UizAnswerIndex": 3,
+      "QuizOptions": [
+        "Frank Robinson",
+        "Barry Bonds",
+        "Alex Rodriguez",
+        "Frank Robinson"
+      ]
+    },
+    {
+      "QuizQuestion": "How many players are on the field for one team at a time?",
+      "UizAnswerIndex": 1,
+      "QuizOptions": [
+        "8",
+        "9",
+        "10",
+        "11"
+      ]
+    },
+    {
+      "QuizQuestion": "What is a 'no-hitter'?",
+      "UizAnswerIndex": 0,
+      "QuizOptions": [
+        "A game where a team gets no hits",
+        "A game with no runs scored",
+        "A game with no errors",
+        "A game with no walks"
+      ]
+    },
+    {
+      "QuizQuestion": "Which pitcher has the most Cy Young Awards?",
+      "UizAnswerIndex": 2,
+      "QuizOptions": [
+        "Greg Maddux",
+        "Randy Johnson",
+        "Roger Clemens",
+        "Clayton Kershaw"
+      ]
+    },
+    {
+      "QuizQuestion": "What is the name of the trophy awarded to the World Series winner?",
+      "UizAnswerIndex": 1,
+      "QuizOptions": [
+        "World Series Cup",
+        "Commissioner's Trophy",
+        "Baseball Championship Trophy",
+        "MLB Cup"
+      ]
+    },
+    {
+      "QuizQuestion": "Which player hit 60 home runs in 1927?",
+      "UizAnswerIndex": 0,
+      "QuizOptions": [
+        "Babe Ruth",
+        "Lou Gehrig",
+        "Jimmie Foxx",
+        "Hack Wilson"
+      ]
+    },
+    {
+      "QuizQuestion": "What position is number 6 in baseball scorekeeping?",
+      "UizAnswerIndex": 3,
+      "QuizOptions": [
+        "First Base",
+        "Second Base",
+        "Third Base",
+        "Shortstop"
+      ]
+    },
+    {
+      "QuizQuestion": "Which team did Cal Ripken Jr. play for his entire career?",
+      "UizAnswerIndex": 0,
+      "QuizOptions": [
+        "Baltimore Orioles",
+        "Chicago White Sox",
+        "Texas Rangers",
+        "Boston Red Sox"
+      ]
+    },
+    {
+      "QuizQuestion": "What is a 'walk-off' win?",
+      "UizAnswerIndex": 2,
+      "QuizOptions": [
+        "A win by forfeit",
+        "A win after extra innings",
+        "A home run that ends the game in the home half of the inning",
+        "A win without scoring"
+      ]
+    },
+    {
+      "QuizQuestion": "Who has the lowest career ERA in MLB history (min 1000 innings)?",
+      "UizAnswerIndex": 1,
+      "QuizOptions": [
+        "Walter Johnson",
+        "Ed Walsh",
+        "Christy Mathewson",
+        "Addie Joss"
+      ]
+    },
+    {
+      "QuizQuestion": "What is the 'Mendoza Line'?",
+      "UizAnswerIndex": 0,
+      "QuizOptions": [
+        "A batting average below .200",
+        "A pitching ERA above 5.00",
+        "A fielding percentage below .900",
+        "A stolen base percentage below 50%"
+      ]
+    },
+    {
+      "QuizQuestion": "Which team has the most no-hitters in MLB history?",
+      "UizAnswerIndex": 2,
+      "QuizOptions": [
+        "New York Yankees",
+        "San Francisco Giants",
+        "Los Angeles Dodgers",
+        "Chicago Cubs"
+      ]
+    },
+    {
+      "QuizQuestion": "Who is the only player to have a .400 batting average in a season since 1941?",
+      "UizAnswerIndex": 3,
+      "QuizOptions": [
+        "George Brett",
+        "Tony Gwynn",
+        "Rod Carew",
+        "Ted Williams"
+      ]
+    },
+    {
+      "QuizQuestion": "What does 'WHIP' measure?",
+      "UizAnswerIndex": 1,
+      "QuizOptions": [
+        "Wins per Home Inning Pitched",
+        "Walks and Hits per Inning Pitched",
+        "Wild Hooks in Play",
+        "Warmup Hurls In Progress"
+      ]
+    },
+    {
+      "QuizQuestion": "Which stadium features the 'Green Monster'?",
+      "UizAnswerIndex": 0,
+      "QuizOptions": [
+        "Fenway Park",
+        "Yankee Stadium",
+        "Wrigley Field",
+        "Dodger Stadium"
+      ]
+    },
+    {
+      "QuizQuestion": "Who holds the record for most consecutive games played (2,632)?",
+      "UizAnswerIndex": 2,
+      "QuizOptions": [
+        "Lou Gehrig",
+        "Hank Aaron",
+        "Cal Ripken Jr.",
+        "Pete Rose"
+      ]
+    },
+    {
+      "QuizQuestion": "What is a 'perfect game'?",
+      "UizAnswerIndex": 0,
+      "QuizOptions": [
+        "No batters reach base",
+        "No runs are scored against",
+        "No errors are made",
+        "No walks are issued"
+      ]
+    },
+    {
+      "QuizQuestion": "Which MLB team is named after a poem?",
+      "UizAnswerIndex": 1,
+      "QuizOptions": [
+        "Philadelphia Phillies",
+        "Baltimore Orioles",
+        "Cincinnati Reds",
+        "Chicago White Sox"
+      ]
     }
   ],
   "PlayerConfig": {
