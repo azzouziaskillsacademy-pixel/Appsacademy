@@ -1,0 +1,152 @@
+{
+  "Quizzes": [
+    {
+     "QuizOptions": [
+        "Michael Jordan",
+        "LeBron James",
+        "Kareem Abdul-Jabbar",
+        "Kobe Bryant"
+      ],
+      "QuizQuestion": "Who is the NBA's all-time leading scorer (most points)?",
+      "UizAnswerIndex": 1
+    },
+    {
+      "QuizOptions": [
+        "Roger Federer",
+        "Rafael Nadal",
+        "Novak Djokovic",
+        "Pete Sampras"
+      ],
+      "QuizQuestion": "Which tennis player has won the most Grand Slam titles (men's)?",
+      "UizAnswerIndex": 2
+    },
+    {
+      "QuizOptions": [
+        "Yankee Stadium",
+        "Fenway Park",
+        "Wrigley Field",
+        "Dodger Stadium"
+      ],
+      "QuizQuestion": "Which baseball stadium is known as 'The House That Ruth Built'?",
+      "UizAnswerIndex": 0
+    },
+    {
+      "QuizOptions": [
+        "Indian Wells",
+        "Key Biscayne",
+        "Flushing Meadows",
+        "San Diego"
+      ],
+      "QuizQuestion": "The US Open tennis tournament is played where?",
+      "UizAnswerIndex": 2
+    },
+    {
+      "QuizOptions": [
+        "Great Britain",
+        "Russia",
+        "China",
+        "United States"
+      ],
+      "QuizQuestion": "Which country has won the most Olympic gold medals in swimming?",
+      "UizAnswerIndex": 3
+    },
+    {
+      "QuizOptions": [
+        "3",
+        "4",
+        "5",
+        "6"
+      ],
+      "QuizQuestion": "How many points is a touchdown worth in American football?",
+      "UizAnswerIndex": 1
+    },
+    {
+      "QuizOptions": [
+        "Muhammad Ali",
+        "Mike Tyson",
+        "Joe Frazier",
+        "George Foreman"
+      ],
+      "QuizQuestion": "Which boxer was known as 'The Greatest'?",
+      "UizAnswerIndex": 0
+    },
+    {
+      "QuizOptions": [
+        "Chicago Blackhawks",
+        "Detroit Red Wings",
+        "Montreal Canadiens",
+        "Boston Bruins"
+      ],
+      "QuizQuestion": "Which NHL team has won the most Stanley Cup titles?",
+      "UizAnswerIndex": 2
+    },
+    {
+      "QuizOptions": [
+        "Simone Biles",
+        "Nadia Comaneci",
+        "Mary Lou Retton",
+        "Gabby Douglas"
+      ],
+      "QuizQuestion": "Which gymnast scored the first perfect 10 in Olympic history?",
+      "UizAnswerIndex": 1
+    },
+    {
+      "QuizOptions": [
+        "Horse racing",
+        "Cycling",
+        "Rowing",
+        "Sailing"
+      ],
+      "QuizQuestion": "The Tour de France is a famous race in which sport?",
+      "UizAnswerIndex": 1
+    }
+  ],
+  "PlayerConfig": {
+    "ShowQuiz": true,
+    "ClickCount": 3,
+    "ShowEvents": false,
+    "ShowScores": true,
+    "ShowUpdate": false,
+    "UpdateLink": "",
+    "ShowChannels": false,
+    "PlayerPackage": "com.smartflix.proplayer",
+    "ShowCustomAds": false,
+    "UpdateVersion": 1,
+    "ShowAutoEvents": true,
+    "server_priority": {
+      "str": 2,
+      "manual": 1,
+      "timstreamer": 3
+    },
+    "ShowAutoChannels": true,
+    "ShowManualEvents": true,
+    "ShowManualChannels": true,
+    "PlayerChannelsAndEventsInPlayer": true
+  },
+  "CustomInterAds": [
+    {
+      "ShowQr": true,
+      "InterstitialLink": "https://glovo.com",
+      "ShowImageOrVideo": 0,
+      "InterstitialImageLink": "https://i.ytimg.com/vi/gQqlVIKBm7E/maxresdefault.jpg",
+      "InterstitialVideoLink": "https://video.adsoftheworld.com/hx9h2ctz5mkiuojooqeaso8jpk96.mp4",
+      "InterstitialQrImageForTv": "https://i.imgur.com/xWFMqjF.png"
+    },
+    {
+      "ShowQr": false,
+      "InterstitialLink": "https://glovo.com",
+      "ShowImageOrVideo": 0,
+      "InterstitialImageLink": "https://i.ytimg.com/vi/gQqlVIKBm7E/maxresdefault.jpg",
+      "InterstitialVideoLink": "https://video.adsoftheworld.com/eeqz98r9d9c779wt29ousfqkjxm3.mp4",
+      "InterstitialQrImageForTv": "https://i.imgur.com/xWFMqjF.png"
+    },
+    {
+      "ShowQr": false,
+      "InterstitialLink": "https://glovo.com",
+      "ShowImageOrVideo": 1,
+      "InterstitialImageLink": "https://image.adsoftheworld.com/gooc3m74ymk8fjkps26s3ju3oq9z",
+      "InterstitialVideoLink": "https://video.adsoftheworld.com/eeqz98r9d9c779wt29ousfqkjxm3.mp4",
+      "InterstitialQrImageForTv": "https://i.imgur.com/xWFMqjF.png"
+    }
+  ]
+}
